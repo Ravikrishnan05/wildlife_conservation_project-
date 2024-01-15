@@ -12,7 +12,12 @@
 
 
 # wildlife_conservation_project-
-
+# intership application
+I have experience in working on microcontrollers like stm32,Arduino,esp32.
+Python and C-programming ,data structures.
+Calculus,Differential equations,Linear algebra.
+Digital electronics.
+I am boy from a small town in Tamilnadu.I used to be a non-Vegetarian .When i was 16 due to conflict in mind i have left non-veg and the idea of wildlife conservation had deeply rooted into my mind. Now i have found my ikigai(Japanese word that means "a reason for being").As a 2nd year student i have learn a lot of skill sets .So it will be really good do a soulful work which connects deeply to heart and highly satisfied 
 ## problem and its utility
 Wildlife plays a vital role in maintaining the balance of our ecosystem. It serves various purposes ranging from protecting our biological diversities to maintaining our cultural ethos. Wildlife is indispensable for striking a crucial balance that enables us to live and grow. However, with growing modernization and globalization, we are facing a climate crisis and our wildlife in India is decreasing day by day.my 
 69% drop in wildlife populations in nearly 5 decades.
